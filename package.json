@@ -25,7 +25,8 @@
   "main": "./lib/selectize-behavior.js",
   "dependencies": {
     "backbone.marionette": ">=2.0.0",
-    "selectize": ">=0.11.0"
+    "selectize": ">=0.11.0",
+    "underscore": "1.6.0"
   },
   "devDependencies": {
     "backbone": "1.1.2",
@@ -35,7 +36,6 @@
     "mocha": "2.2.4",
     "mocha-phantomjs": "3.5.3",
     "phantomjs": "1.9.16",
-    "sifter": "0.4.1",
-    "underscore": "1.6.0"
+    "sifter": "0.4.1"
   }
 }
